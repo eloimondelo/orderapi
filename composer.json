@@ -1,0 +1,7 @@
+{
+    "name": "eloimondelo/orderapi",
+    "description": "Provides a default search and filtering over a linked database",
+    "require": {
+        "php": ">=7.4"
+    }
+}
